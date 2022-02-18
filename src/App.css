@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.find-button-container {
+  margin: 20px;
+}
+
+.button {
+  border-width: 0px;
+  color: blue;
+  background-color: transparent;
+}
+
+.select {
+  width: 150px;
+  height: 25px;
+  margin: 20px;
+}
+
+.table-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+th,
+td {
+  border-bottom: 1px solid #ddd;
+}
+
+.slot-card {
+  border-width: 1px;
+  border-color: grey;
+  border-style: solid;
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-details {
+  text-align: left;
+}
+.center-name {
+  font-size: 24px;
+  color: blue;
+}
+
+.center-address,
+.center-pin {
+  font-size: 18px;
+  color: grey;
+}
+
+.center-vaccine {
+  font-size: 20px;
+}
+
+.slots-available {
+  color: green;
+}
+
+.slots-unavailable {
+  color: orange;
+}
+
+table {
+  margin-left: 100px;
+}
+.datesss {
+  margin-left: 350px;
+  width: 60vw;
+  background-color: lightgray;
+}
